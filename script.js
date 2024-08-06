@@ -121,3 +121,5 @@ paginator.addEventListener('click',function onPaginatorClicked(event){
   if (filteredUsers === 'noResult') return
     renderUsersData(getUserByPage(page))
 })
+
+//change test
